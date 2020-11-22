@@ -1,0 +1,23 @@
+{
+  "name": "practice-electron",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaimaeMazzouz/Electron_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaimaeMazzouz/Electron_practice/issues"
+  },
+  "homepage": "https://github.com/chaimaeMazzouz/Electron_practice#readme",
+  "description": "",
+  "devDependencies": {
+    "electron": "^11.0.2"
+  }
+}
